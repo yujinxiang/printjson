@@ -7,9 +7,9 @@ import (
 
 func main() {
 	jsonStr := `{
-		"data":{"name":"hh","age":"opop","attr":[{"fff":"kkkk","gggg":"aaaa"}]},
-		"haha":"ffffkkkkk"	,
-		"attr":[{"fff":"kkkk","gggg":"aaaa","number":100}]
+		"student":{"name":"xiaoming","age":25,"hobby":["sleep","eat"]},
+		"phone":"huawei"	,
+		"members":[{"father":"baba","mother":"mama"}]
 	}`
 
 	PrintJson(jsonStr)
