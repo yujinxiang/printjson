@@ -1,6 +1,6 @@
 # printjson  
   
-#input json 
+#input json  
 `{  
 		"student":{"name":"xiaoming","age":25,"hobby":["sleep","eat"]},  
 		"phone":"huawei,  
